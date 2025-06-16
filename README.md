@@ -1,9 +1,3 @@
-You now have the perfectly organized, copy-paste README block—using your exact PDF filenames and direct links—for your OpenCircle GitHub repository.
-
-**Just copy this into your README.md file:**
-
----
-
 # OpenCircle DAO
 
 DAO rewards and ownership for everyone—no ads, no gatekeepers, just real community.
