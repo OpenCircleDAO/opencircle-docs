@@ -1,3 +1,9 @@
+You now have the perfectly organized, copy-paste README block—using your exact PDF filenames and direct links—for your OpenCircle GitHub repository.
+
+**Just copy this into your README.md file:**
+
+---
+
 # OpenCircle DAO
 
 DAO rewards and ownership for everyone—no ads, no gatekeepers, just real community.
@@ -23,12 +29,11 @@ OpenCircle is a radically transparent DAO on Polygon, welcoming both crypto newc
 
 ## Direct Download Docs (PDF)
 
+- [Onboarding Guide (PDF)](https://github.com/opencircle-dao/opencircle-docs/raw/main/onboarding-guide.pdf)
+- [Constitution - Community Structure (PDF)](https://github.com/opencircle-dao/opencircle-docs/raw/main/opencircle-constitution-communitystructure.pdf)
 - [Litepaper & Transparency Log (PDF)](https://github.com/opencircle-dao/opencircle-docs/raw/main/opencircle-litepaper-transparency-log.pdf)
-- [Onboarding Guide (PDF)](https://github.com/opencircle-dao/opencircle-docs/raw/main/opencircle-onboarding-guide.pdf)
-- [Constitution (PDF)](https://github.com/opencircle-dao/opencircle-docs/raw/main/opencircle-constitution.pdf)
-- [Playbook & Templates (PDF)](https://github.com/opencircle-dao/opencircle-docs/raw/main/opencircle-playbook.pdf)
+- [Onboarding Playbook & Templates (PDF)](https://github.com/opencircle-dao/opencircle-docs/raw/main/opencircle-onboarding-playbook-templates.pdf)
 
 ---
 
 All guides, onboarding materials, logs, and templates are open source and maintained to help any community—newcomers and DAOs alike—clone, adapt, and improve on OpenCircle’s best practices.
-
