@@ -2,7 +2,7 @@
 
 DAO rewards and ownership for everyone—no ads, no gatekeepers, just real community.
 
-OpenCircle is a radically transparent DAO on Polygon, welcoming both crypto newcomers and web3 veterans. Step-by-step onboarding, peer rewards, and all DAO/founder support are tracked live and open source. Every onboarding guide, log template, and operational resource here is free to copy and adapt for any community.
+OpenCircle is a radically transparent DAO on Polygon, welcoming both newcomers and web3 veterans. Step-by-step onboarding, peer rewards, and all DAO/founder support are tracked live and open source. Every onboarding guide, log template, and operational resource here is free to copy and adapt for any community.
 
 ---
 
@@ -23,10 +23,10 @@ OpenCircle is a radically transparent DAO on Polygon, welcoming both crypto newc
 
 ## Direct Download Docs (PDF)
 
-- [Onboarding Guide (PDF)](https://github.com/opencircle-dao/opencircle-docs/raw/main/onboarding-guide.pdf)
-- [Constitution - Community Structure (PDF)](https://github.com/opencircle-dao/opencircle-docs/raw/main/opencircle-constitution-communitystructure.pdf)
-- [Litepaper & Transparency Log (PDF)](https://github.com/opencircle-dao/opencircle-docs/raw/main/opencircle-litepaper-transparency-log.pdf)
-- [Onboarding Playbook & Templates (PDF)](https://github.com/opencircle-dao/opencircle-docs/raw/main/opencircle-onboarding-playbook-templates.pdf)
+- [Onboarding Guide (PDF)](https://github.com/OpenCircleDAO/opencircle-docs/raw/main/onboarding-guide.pdf)
+- [Constitution - Community Structure (PDF)](https://github.com/OpenCircleDAO/opencircle-docs/raw/main/opencircle-constitution-communitystructure.pdf)
+- [Litepaper & Transparency Log (PDF)](https://github.com/OpenCircleDAO/opencircle-docs/raw/main/opencircle-litepaper-transparency-log.pdf)
+- [Onboarding Playbook & Templates (PDF)](https://github.com/OpenCircleDAO/opencircle-docs/raw/main/opencircle-onboarding-playbook-templates.pdf)
 
 ---
 
